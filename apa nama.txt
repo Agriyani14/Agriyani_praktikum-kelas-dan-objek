@@ -1,0 +1,2 @@
+Dalam Python, akses file dilakukan dengan menggunakan fungsi open() atau dengan memanggil langsung Konstruktor dari tipe file.
+Parameter yang terdapat pada konstruktor file sama seperti parameter dari fungsi open(). Di antara dua
